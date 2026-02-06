@@ -24,7 +24,7 @@ This framework demonstrates practical understanding of compiler internals, optim
 - **Tools:** Linux, LLVM Toolchain, Perf Benchmarking
 - **Automation:** Python subprocess module
 
----
+```
 
 ## 📂 Project Structure
 Compiler-Optimization-Framework
@@ -44,7 +44,7 @@ Compiler-Optimization-Framework
 └── main.py
 
 
----
+```
 
 ## ⚙️ Features
 
