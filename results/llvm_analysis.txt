@@ -1,0 +1,9 @@
+LLVM IR Analysis
+
+Generated LLVM Intermediate Representation (IR) using Clang to analyze compiler optimization pipeline.
+
+Observations:
+- IR shows low-level instruction transformation before machine code generation.
+- Helps visualize optimization passes such as instruction simplification and loop transformations.
+- Demonstrates internal compiler behavior independent of hardware architecture.
+
