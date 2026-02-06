@@ -1,0 +1,13 @@
+# Ignore executables
+*_exec
+
+# Ignore assembly
+*.s
+
+# Ignore build outputs
+*.out
+*.o
+
+# Ignore temporary files
+__pycache__/
+
